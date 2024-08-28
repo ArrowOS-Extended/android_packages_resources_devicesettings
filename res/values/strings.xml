@@ -19,6 +19,9 @@
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <string name="summary_empty" translatable="false"></string>
 
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Assistant key action</string>
+
     <!-- Device specific settings -->
     <string name="device_settings_app_name">Advanced settings</string>
 
